@@ -1,1 +1,1 @@
-# basic-haskell-exercises
+# haskell-exprs
